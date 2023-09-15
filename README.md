@@ -11,7 +11,7 @@ you can find me in these places: 😊
 
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arvinasghari/)
-[![Website](https://img.shields.io/badge/WebSitg-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.linkedin.com/in/arvinasghari/)
+[![Website](https://img.shields.io/badge/WebSite-80EAFF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.linkedin.com/in/arvinasghari/)
 
 
 ## my skills
