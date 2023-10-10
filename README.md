@@ -4,9 +4,11 @@
 I am computer science student at university of waterloo (2025)
 
 I enjoy building small projects for myself from time to time
-
-recently i've also been getting into daily leetcoding to improve my knowledge of algorithms and data structures
-
+I am intersted in lots of topics this is including but not limited to:
+1. Mobile Development
+2. Machine Learning And Artifical Intelligence
+3. Game Development
+4. Applied Mathematics and physics and their application using computer sicence
 you can find me in these places: 😊
 
 
