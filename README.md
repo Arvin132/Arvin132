@@ -36,9 +36,9 @@ you can find me in these places: 😊
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### machine Learning 🤖
-![OpenCV](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Numpy](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### mobile develompment 📱
 
