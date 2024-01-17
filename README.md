@@ -1,14 +1,15 @@
 ﻿# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## About Me
-I am computer science student at university of waterloo (2025)
+I am computer science student major ( physics minor )  at the University of Waterloo (2025)
 
 I enjoy building small projects for myself from time to time
-I am intersted in lots of topics this is including but not limited to:
-1. Mobile Development
-2. Machine Learning And Artifical Intelligence
-3. Game Development
-4. Applied Mathematics and physics and their application using computer sicence
+I am intersted in lots of topics, primarly on machine learning methods and their application in the field of biology. the topics in CS which I am intrested are but not limited to:
+1. Machine learning And artifical intelligence
+2. Game development
+3. Applied mathematics and physics and their application using computer sicence
+4. Mobile development
+
 you can find me in these places: 😊
 
 
@@ -34,15 +35,18 @@ you can find me in these places: 😊
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+### machine Learning 🤖
+![OpenCV](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### mobile develompment 📱
 
 ![Android](https://img.shields.io/badge/Android-00CC66?style=for-the-badge&logo=android&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-E34F26?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ### other technologies
 
 ![MYSQL](https://img.shields.io/badge/MYSQL-FF9933?style=for-the-badge&logo=mysql&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
