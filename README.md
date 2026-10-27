@@ -1,7 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 " Software tends to follow the people who've created it..."
 
-Software person trying to solve interesting solutions while making sense of the world.
+Software person trying to solve interesting problems while making sense of the world.
 UW Grad
 
 ### Reach out in these places
